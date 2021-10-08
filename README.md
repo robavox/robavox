@@ -1,5 +1,5 @@
 - 👋 Hi, Welcome to Robavo X (Robavo Expeditions).
-- 👀 We're are a venture research and development studio interested in creating and funding projects in civic and deep tech verticals.
+- 👀 We're are a venture studio interested in creating and funding civic and deep tech projects.
 - 💞️ We’re always interested in collaborating with senior engineers (hardware, software, embedded systems, spacecraft, etc), designers, university faculty, graduate students, postdocs, and research scientists passionate about entrepreneurship, venture capital, and tech.
 - 📫 We'd love to talk. Email us at hello@robavo.xyz
 
